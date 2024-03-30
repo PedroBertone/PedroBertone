@@ -1,4 +1,4 @@
-# Hey there! I'm Pedro Bertone 👋
+# Hey there! I'm Pedro Bertone, the Cyb3r S4mur4i 👋
 
 ## About Me
 - 👀 I'm passionate about AI, Cybersecurity, and International Relations.
