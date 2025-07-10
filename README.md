@@ -1,10 +1,9 @@
-# Hey there! I'm Pedro Bertone, the Cyb3r S4mur4i 👋
+# Hey there! I'm Pedro Bertone, the Cyb3r Bl00d 👋
 
 ## About Me
 - 👀 I'm passionate about AI, Cybersecurity, and International Relations.
 - 🌱 Currently, I'm deepening my knowledge in Computer Networking, Cybersecurity, Linux, and SQL.
-- 💼 I bring over 20 years of experience as a Muay Thai former fighter and Teacher.
-- 😄 Pronouns: He/His
+
 
 ## Interests
 - 🧠 Exploring the realms of Artificial Intelligence and its applications.
