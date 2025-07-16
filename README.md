@@ -1,4 +1,4 @@
-Hello, I’m Pedro Bertone — Cybersecurity Consultant & Tech Enthusiast, the Cyber Defensor 🛡️
+Hello, I’m Pedro Bertone — Cybersecurity Consultant & Tech Enthusiast, the Cyber Tup@ 🛡️
 
 👤 About Me
 I’m a passionate and multilingual Cybersecurity Consultant with over 12 years of international experience in IT support, business development, and technical consulting, currently expanding my technical expertise in:
