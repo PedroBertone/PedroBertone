@@ -1,4 +1,4 @@
-# Hey there! I'm Pedro Bertone, the Cyb3r Bl00d 👋
+# Hey there! I'm Pedro Bertone, the Cyber Defensor 👋
 
 ## About Me
 - 👀 I'm passionate about AI, Cybersecurity, and International Relations.
