@@ -1,22 +1,41 @@
-# Hey there! I'm Pedro Bertone, the Cyber Defensor 👋
+Hello, I’m Pedro Bertone — Cybersecurity Consultant & Tech Enthusiast, the Cyber Defensor 🛡️
 
-## About Me
-- 👀 I'm passionate about AI, Cybersecurity, and International Relations.
-- 🌱 Currently, I'm deepening my knowledge in Computer Networking, Cybersecurity, Linux, and SQL.
+👤 About Me
+I’m a passionate and multilingual Cybersecurity Consultant with over 12 years of international experience in IT support, business development, and technical consulting, currently expanding my technical expertise in:
 
+🔐 Cybersecurity & Incident Response
 
-## Interests
-- 🧠 Exploring the realms of Artificial Intelligence and its applications.
-- 🔒 Enhancing my skills in Cybersecurity to tackle modern digital threats.
-- 🌐 Understanding the intersections of technology and international relations.
+🧠 Artificial Intelligence
 
-## Current Focus
-- 📚 Learning Python for automation, scripting, and ethical hacking.
-- ☁️ Exploring Cloud Computing for scalable and flexible solutions.
-- 🐧 Mastering Linux for its role in security and systems administration.
+🧮 Python Scripting & Automation
 
-## Collaboration
-- 💞️ Open to collaborate on projects related to cybersecurity, Python development, or cloud computing.
+🐧 Linux Systems Administration
 
-## Get in Touch
-- 📫 Reach me through GitHub or LinkedIn: [Pedro Bertone](https://github.com/PedroBertone)
+🌐 Computer Networking & Cloud Security
+
+🎯 Interests
+Investigating real-world applications of AI and machine learning in cybersecurity
+
+Strengthening defense strategies against modern digital threats
+
+Exploring the intersection of technology, geopolitics, and international relations
+
+🚀 Current Focus
+Learning Python for scripting, automation, and ethical hacking
+
+Gaining hands-on experience with Linux and network security tools
+
+Diving into Cloud Computing for scalable, secure environments
+
+🤝 Collaboration
+I’m open to collaborating on:
+
+Cybersecurity and ethical hacking projects
+
+Python development for security automation
+
+Cloud-based security architectures and labs
+
+📫 Let’s Connect
+Feel free to reach out via GitHub or LinkedIn.
+Always open to new ideas, partnerships, and projects that make a real impact.
